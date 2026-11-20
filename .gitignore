@@ -1,0 +1,7 @@
+# Codecademy's project files (instructions and answer key)
+solution.sql
+*.pdf
+
+# System files
+.DS_Store
+Thumbs.db
